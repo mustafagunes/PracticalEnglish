@@ -1,0 +1,33 @@
+{
+  "data":
+  [
+    {
+      "name": "ESL Video",
+      "url": "https://www.eslvideo.com/"
+    },
+    {
+      "name": "TalkEnglish",
+      "url": "https://www.talkenglish.com/"
+    },
+    {
+      "name": "Liveworksheets",
+      "url": "https://www.liveworksheets.com/"
+    },
+    {
+      "name": "Lingoclip",
+      "url": "https://lingoclip.com/"
+    },
+    {
+      "name": "News in Levels",
+      "url": "https://www.newsinlevels.com/"
+    },
+    {
+      "name": "DailyDictation",
+      "url": "https://dailydictation.com/courses"
+    },
+    {
+      "name": "VocaGarden",
+      "url": "https://www.vocagarden.com/outside/intro/"
+    }
+  ]
+}
