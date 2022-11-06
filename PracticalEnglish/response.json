@@ -32,6 +32,14 @@
     {
       "name": "VocaGarden",
       "url": "https://www.vocagarden.com/outside/intro/"
+    },
+    {
+      "name": "Memrise",
+      "url": "https://www.memrise.com/"
+    },
+    {
+      "name": "Sesli Sözlük",
+      "url": "https://www.seslisozluk.net/"
     }
   ]
 }
